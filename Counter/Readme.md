@@ -1,0 +1,1 @@
+This activity shows how variables in java work and how integrating it with XML part of the UI works leads to an integrated Android application using Android Studio, to build the application and using an emulator to check the application
