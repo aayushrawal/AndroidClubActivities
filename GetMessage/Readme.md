@@ -1,0 +1,1 @@
+An application that inputs registration number of the user, takes the MAC address of the device and sends the data to https://android-club-project.herokuapp.com/ server, which in turn sends a string which is displayed to the user in the app.
